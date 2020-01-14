@@ -1,0 +1,21 @@
+﻿[2020.01.07-15.27.07:027][  0]Log file open, 01/07/20 07:27:07
+[2020.01.07-15.27.07:027][  0]LogMemory: Platform Memory Stats for WindowsServer
+[2020.01.07-15.27.07:027][  0]LogMemory: Process Physical Memory: 58.83 MB used, 58.83 MB peak
+[2020.01.07-15.27.07:028][  0]LogMemory: Process Virtual Memory: 49.91 MB used, 50.04 MB peak
+[2020.01.07-15.27.07:028][  0]LogMemory: Physical Memory: 224122.16 MB used, 262109.80 MB total
+[2020.01.07-15.27.07:028][  0]LogMemory: Virtual Memory: 286.24 MB used, 134217728.00 MB total
+[2020.01.07-15.27.07:735][  0]ARK Version: 304.41
+[2020.01.07-15.27.07:735][  0]PID: 15588
+[2020.01.07-15.28.31:130][  0]Primal Game Data Took 82.03 seconds
+[2020.01.07-15.28.37:765][  0]Set new sublevel to load: /Game/Maps/TheIslandSubMaps/LandscapeSublevel_Winter
+[2020.01.07-15.28.37:765][  0]Set existing sublevel to not load: /Game/Maps/TheIslandSubMaps/LandscapeSublevel
+[2020.01.07-15.29.06:878][  0]Server Initializing with BattlEye Anti-Cheat Protection. If you do not wish to use BattlEye, please launch with -NoBattlEye
+[2020.01.07-15.29.06:881][  0]BattlEye successfully started.
+[2020.01.07-15.29.43:661][  0]Server: "ironark" has successfully started!
+[2020.01.07-15.29.59:297][  0]Commandline: "../../../ShooterGame/ShooterGame.uproject" "/Game/Maps/TheIslandSubMaps/TheIsland?Multihome=107.173.81.34?Port=30615?QueryPort=30616?SessionName=ironark?MaxPlayers=10?listen?ServerPassword=9967?ServerAdminPassword=ironarkAdmin0?RCONEnabled=True?RCONPort=30617?AltSaveDirectoryName=SavedArk98885" -AltSaveDirectoryName=SavedArk98885    -speedhackbias=1f            -culture=en    -NoTransferFromFiltering              -nosteamclient -game -server -log -NoCrashDialog
+[2020.01.07-15.29.59:298][  0]Full Startup: 175.05 seconds (BP compile: 0.00 seconds)
+[2020.01.07-15.29.59:299][  0]Number of cores 16
+[2020.01.07-17.00.23:220][ 89]Closing by request
+[2020.01.07-17.00.23:220][ 89] - FPlatformMisc::RequestExit(0)
+[2020.01.07-17.00.23:225][ 90] - FPlatformMisc::RequestExit(1)
+[2020.01.07-17.00.23:225][ 90]Log file closed, 01/07/20 09:00:23
