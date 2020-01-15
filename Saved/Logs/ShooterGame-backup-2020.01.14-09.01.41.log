@@ -1,0 +1,19 @@
+﻿[2020.01.14-16.59.26:347][  0]Log file open, 01/14/20 08:59:26
+[2020.01.14-16.59.26:347][  0]LogMemory: Platform Memory Stats for WindowsServer
+[2020.01.14-16.59.26:347][  0]LogMemory: Process Physical Memory: 59.20 MB used, 59.21 MB peak
+[2020.01.14-16.59.26:347][  0]LogMemory: Process Virtual Memory: 50.90 MB used, 51.04 MB peak
+[2020.01.14-16.59.26:347][  0]LogMemory: Physical Memory: 51859.96 MB used, 65436.48 MB total
+[2020.01.14-16.59.26:347][  0]LogMemory: Virtual Memory: 4375.40 MB used, 134217728.00 MB total
+[2020.01.14-16.59.26:623][  0]ARK Version: 304.441
+[2020.01.14-16.59.26:623][  0]PID: 12344
+[2020.01.14-17.00.03:848][  0]Primal Game Data Took 35.87 seconds
+[2020.01.14-17.00.18:358][  0]Server Initializing with BattlEye Anti-Cheat Protection. If you do not wish to use BattlEye, please launch with -NoBattlEye
+[2020.01.14-17.00.18:360][  0]BattlEye successfully started.
+[2020.01.14-17.00.37:506][  0]Server: "ironark" has successfully started!
+[2020.01.14-17.00.44:122][  0]Commandline: "TheIsland?RCONEnabled=True?RCONPort=27057?SessionName=ironark?MaxPlayers=30?Port=27056?QueryPort=27056?NonPermanentDiseases=true?PreventDiseases=true?AutoDestroyOldStructuresMultiplier=1?ShowFloatingDamageText=true?OverrideStructurePlatformPrevention=true?TribeLogDestroyedEnemyStructures=true?PvEAllowStructuresAtSupplyDrops=true?OverrideOfficialDifficulty=5?PreventOfflinePvPInterval=900?ServerPassword=9967?ServerAdminPassword=ironarkAdmin0?listen   -clusterid= 
+[2020.01.14-17.00.44:122][  0]Full Startup: 79.26 seconds (BP compile: 0.00 seconds)
+[2020.01.14-17.00.44:122][  0]Number of cores 6
+[2020.01.14-17.01.29:242][302]Closing by request
+[2020.01.14-17.01.29:242][302] - FPlatformMisc::RequestExit(0)
+[2020.01.14-17.01.29:243][303] - FPlatformMisc::RequestExit(1)
+[2020.01.14-17.01.29:243][303]Log file closed, 01/14/20 09:01:29
