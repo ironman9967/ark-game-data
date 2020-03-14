@@ -1,0 +1,461 @@
+﻿[2020.03.07-21.07.34:177][  0]Log file open, 03/07/20 15:07:34
+[2020.03.07-21.07.34:177][  0]LogMemory: Platform Memory Stats for WindowsServer
+[2020.03.07-21.07.34:177][  0]LogMemory: Process Physical Memory: 59.65 MB used, 59.65 MB peak
+[2020.03.07-21.07.34:177][  0]LogMemory: Process Virtual Memory: 50.59 MB used, 50.71 MB peak
+[2020.03.07-21.07.34:177][  0]LogMemory: Physical Memory: 57612.85 MB used, 65436.48 MB total
+[2020.03.07-21.07.34:177][  0]LogMemory: Virtual Memory: 4396.86 MB used, 134217728.00 MB total
+[2020.03.07-21.07.34:572][  0]ARK Version: 306.5
+[2020.03.07-21.07.34:572][  0]PID: 8216
+[2020.03.07-21.08.22:189][  0]Primal Game Data Took 45.53 seconds
+[2020.03.07-21.09.37:270][  0]Server: "ironark" has successfully started!
+[2020.03.07-21.09.47:829][  0]Commandline: "TheIsland?RCONEnabled=True?RCONPort=27054?SessionName=ironark?MaxPlayers=30?Port=27053?QueryPort=27053?NonPermanentDiseases=true?AllowRaidDinoFeeding=true?PreventDiseases=false?AutoDestroyOldStructuresMultiplier=1?ShowFloatingDamageText=true?AllowAnyoneBabyImprintCuddle=true?OverrideStructurePlatformPrevention=true?TribeLogDestroyedEnemyStructures=true?PvEAllowStructuresAtSupplyDrops=true?OverrideOfficialDifficulty=4?PreventOfflinePvPInterval=900?ServerPassword=9967?ServerAdminPassword=ironarkAdmin0?listen -ForceAllowCaveFlyers  -NoBattlEye  -clusterid= 
+[2020.03.07-21.09.47:829][  0]Full Startup: 135.47 seconds (BP compile: 0.00 seconds)
+[2020.03.07-21.09.47:829][  0]Number of cores 6
+[2020.03.07-21.09.48:257][  4]AllActors Call During Gameplay: World Time 2520209.3, Class DinoStorage2CCA_C
+[2020.03.07-21.09.57:893][284]AllActors Call During Gameplay: World Time 2520219.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.10.07:908][582]AllActors Call During Gameplay: World Time 2520229.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.10.17:846][878]AllActors Call During Gameplay: World Time 2520239.0, Class CompostBin_C
+[2020.03.07-21.10.17:914][880]AllActors Call During Gameplay: World Time 2520239.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.10.27:943][180]AllActors Call During Gameplay: World Time 2520249.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.10.37:951][480]AllActors Call During Gameplay: World Time 2520259.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.10.47:972][781]AllActors Call During Gameplay: World Time 2520269.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.10.57:981][ 82]AllActors Call During Gameplay: World Time 2520279.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.11.07:983][382]AllActors Call During Gameplay: World Time 2520289.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.11.18:006][684]AllActors Call During Gameplay: World Time 2520299.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.11.28:008][985]AllActors Call During Gameplay: World Time 2520309.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.11.38:036][281]AllActors Call During Gameplay: World Time 2520319.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.11.48:109][576]AllActors Call During Gameplay: World Time 2520329.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.11.58:140][877]AllActors Call During Gameplay: World Time 2520339.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.12.08:169][176]AllActors Call During Gameplay: World Time 2520349.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.12.18:190][476]AllActors Call During Gameplay: World Time 2520359.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.12.28:193][776]AllActors Call During Gameplay: World Time 2520369.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.12.38:207][ 76]AllActors Call During Gameplay: World Time 2520379.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.12.48:237][377]AllActors Call During Gameplay: World Time 2520389.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.12.58:246][677]AllActors Call During Gameplay: World Time 2520399.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.13.08:269][978]AllActors Call During Gameplay: World Time 2520409.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.13.18:300][279]AllActors Call During Gameplay: World Time 2520419.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.13.28:315][579]AllActors Call During Gameplay: World Time 2520429.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.13.38:330][879]AllActors Call During Gameplay: World Time 2520439.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.13.48:347][176]AllActors Call During Gameplay: World Time 2520449.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.13.58:358][476]AllActors Call During Gameplay: World Time 2520459.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.14.08:371][775]AllActors Call During Gameplay: World Time 2520469.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.14.18:379][ 75]AllActors Call During Gameplay: World Time 2520479.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.14.28:382][375]AllActors Call During Gameplay: World Time 2520489.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.14.38:398][675]AllActors Call During Gameplay: World Time 2520499.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.14.48:424][976]AllActors Call During Gameplay: World Time 2520509.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.14.58:444][276]AllActors Call During Gameplay: World Time 2520519.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.15.08:457][576]AllActors Call During Gameplay: World Time 2520529.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.15.18:488][877]AllActors Call During Gameplay: World Time 2520539.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.15.28:501][177]AllActors Call During Gameplay: World Time 2520549.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.15.38:509][477]AllActors Call During Gameplay: World Time 2520559.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.15.48:530][774]AllActors Call During Gameplay: World Time 2520569.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.15.58:559][ 75]AllActors Call During Gameplay: World Time 2520579.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.16.08:589][374]AllActors Call During Gameplay: World Time 2520589.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.16.18:596][674]AllActors Call During Gameplay: World Time 2520599.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.16.28:614][974]AllActors Call During Gameplay: World Time 2520609.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.16.38:626][274]AllActors Call During Gameplay: World Time 2520619.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.16.48:651][574]AllActors Call During Gameplay: World Time 2520629.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.16.58:659][874]AllActors Call During Gameplay: World Time 2520639.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.17.08:669][174]AllActors Call During Gameplay: World Time 2520649.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.17.18:684][474]AllActors Call During Gameplay: World Time 2520659.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.17.28:714][775]AllActors Call During Gameplay: World Time 2520670.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.17.38:721][ 75]AllActors Call During Gameplay: World Time 2520680.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.17.48:742][372]AllActors Call During Gameplay: World Time 2520690.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.17.58:753][672]AllActors Call During Gameplay: World Time 2520700.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.18.08:777][971]AllActors Call During Gameplay: World Time 2520710.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.18.18:795][271]AllActors Call During Gameplay: World Time 2520720.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.18.28:801][571]AllActors Call During Gameplay: World Time 2520730.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.18.38:803][871]AllActors Call During Gameplay: World Time 2520740.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.18.48:834][168]AllActors Call During Gameplay: World Time 2520750.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.18.58:856][462]AllActors Call During Gameplay: World Time 2520760.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.19.08:861][759]AllActors Call During Gameplay: World Time 2520770.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.19.18:866][ 53]AllActors Call During Gameplay: World Time 2520780.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.19.28:876][353]AllActors Call During Gameplay: World Time 2520790.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.19.38:887][653]AllActors Call During Gameplay: World Time 2520800.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.19.48:917][950]AllActors Call During Gameplay: World Time 2520810.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.19.58:927][250]AllActors Call During Gameplay: World Time 2520820.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.20.08:928][549]AllActors Call During Gameplay: World Time 2520830.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.20.18:957][850]AllActors Call During Gameplay: World Time 2520840.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.20.28:974][150]AllActors Call During Gameplay: World Time 2520850.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.20.38:988][450]AllActors Call During Gameplay: World Time 2520860.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.20.48:989][750]AllActors Call During Gameplay: World Time 2520870.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.20.59:007][ 50]AllActors Call During Gameplay: World Time 2520880.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.21.09:017][350]AllActors Call During Gameplay: World Time 2520890.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.21.19:027][650]AllActors Call During Gameplay: World Time 2520900.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.21.29:037][950]AllActors Call During Gameplay: World Time 2520910.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.21.39:048][250]AllActors Call During Gameplay: World Time 2520920.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.21.49:065][547]AllActors Call During Gameplay: World Time 2520930.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.21.59:071][847]AllActors Call During Gameplay: World Time 2520940.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.22.09:092][146]AllActors Call During Gameplay: World Time 2520950.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.22.19:102][446]AllActors Call During Gameplay: World Time 2520960.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.22.29:124][746]AllActors Call During Gameplay: World Time 2520970.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.22.39:127][ 46]AllActors Call During Gameplay: World Time 2520980.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.22.41:671][122]AllActors Call During Gameplay: World Time 2520982.8, Class DinoStorage2CCA_C
+[2020.03.07-21.22.49:140][346]AllActors Call During Gameplay: World Time 2520990.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.22.59:167][647]AllActors Call During Gameplay: World Time 2521000.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.23.09:181][947]AllActors Call During Gameplay: World Time 2521010.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.23.19:212][248]AllActors Call During Gameplay: World Time 2521020.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.23.29:221][548]AllActors Call During Gameplay: World Time 2521030.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.23.39:221][848]AllActors Call During Gameplay: World Time 2521040.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.23.49:223][144]AllActors Call During Gameplay: World Time 2521050.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.23.59:772][425]AllActors Call During Gameplay: World Time 2521060.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.24.09:787][724]AllActors Call During Gameplay: World Time 2521070.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.24.19:791][ 24]AllActors Call During Gameplay: World Time 2521080.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.24.29:797][324]AllActors Call During Gameplay: World Time 2521090.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.24.39:808][624]AllActors Call During Gameplay: World Time 2521100.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.24.49:838][925]AllActors Call During Gameplay: World Time 2521110.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.24.59:866][225]AllActors Call During Gameplay: World Time 2521120.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.25.09:869][524]AllActors Call During Gameplay: World Time 2521130.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.25.19:877][824]AllActors Call During Gameplay: World Time 2521140.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.25.29:885][124]AllActors Call During Gameplay: World Time 2521150.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.25.39:883][423]AllActors Call During Gameplay: World Time 2521160.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.25.49:907][720]AllActors Call During Gameplay: World Time 2521170.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.25.59:925][ 16]AllActors Call During Gameplay: World Time 2521180.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.26.09:929][314]AllActors Call During Gameplay: World Time 2521190.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.26.19:932][614]AllActors Call During Gameplay: World Time 2521200.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.26.29:947][914]AllActors Call During Gameplay: World Time 2521210.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.26.39:969][214]AllActors Call During Gameplay: World Time 2521220.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.26.49:998][515]AllActors Call During Gameplay: World Time 2521230.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.27.00:020][815]AllActors Call During Gameplay: World Time 2521240.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.27.10:039][115]AllActors Call During Gameplay: World Time 2521250.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.27.20:040][415]AllActors Call During Gameplay: World Time 2521260.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.27.30:062][715]AllActors Call During Gameplay: World Time 2521270.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.27.40:063][ 15]AllActors Call During Gameplay: World Time 2521280.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.27.50:076][311]AllActors Call During Gameplay: World Time 2521290.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.28.00:087][611]AllActors Call During Gameplay: World Time 2521300.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.28.10:120][910]AllActors Call During Gameplay: World Time 2521310.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.28.20:129][210]AllActors Call During Gameplay: World Time 2521320.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.28.30:137][510]AllActors Call During Gameplay: World Time 2521330.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.28.40:148][810]AllActors Call During Gameplay: World Time 2521340.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.28.50:162][104]AllActors Call During Gameplay: World Time 2521350.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.29.00:189][400]AllActors Call During Gameplay: World Time 2521360.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.29.10:207][700]AllActors Call During Gameplay: World Time 2521370.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.29.20:224][  0]AllActors Call During Gameplay: World Time 2521380.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.29.30:246][300]AllActors Call During Gameplay: World Time 2521390.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.29.40:261][600]AllActors Call During Gameplay: World Time 2521401.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.29.50:284][897]AllActors Call During Gameplay: World Time 2521411.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.30.00:310][198]AllActors Call During Gameplay: World Time 2521421.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.30.10:322][497]AllActors Call During Gameplay: World Time 2521431.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.30.20:324][797]AllActors Call During Gameplay: World Time 2521441.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.30.30:341][ 97]AllActors Call During Gameplay: World Time 2521451.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.30.40:360][398]AllActors Call During Gameplay: World Time 2521461.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.30.50:365][698]AllActors Call During Gameplay: World Time 2521471.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.31.00:372][998]AllActors Call During Gameplay: World Time 2521481.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.31.10:386][298]AllActors Call During Gameplay: World Time 2521491.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.31.20:387][598]AllActors Call During Gameplay: World Time 2521501.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.31.30:406][898]AllActors Call During Gameplay: World Time 2521511.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.31.40:428][199]AllActors Call During Gameplay: World Time 2521521.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.31.50:454][496]AllActors Call During Gameplay: World Time 2521531.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.32.00:460][796]AllActors Call During Gameplay: World Time 2521541.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.32.10:471][ 95]AllActors Call During Gameplay: World Time 2521551.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.32.20:497][396]AllActors Call During Gameplay: World Time 2521561.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.32.30:505][696]AllActors Call During Gameplay: World Time 2521571.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.32.40:531][997]AllActors Call During Gameplay: World Time 2521581.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.32.50:555][297]AllActors Call During Gameplay: World Time 2521591.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.33.00:566][593]AllActors Call During Gameplay: World Time 2521601.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.33.10:585][892]AllActors Call During Gameplay: World Time 2521611.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.33.20:610][193]AllActors Call During Gameplay: World Time 2521621.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.33.30:622][493]AllActors Call During Gameplay: World Time 2521631.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.33.40:629][793]AllActors Call During Gameplay: World Time 2521641.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.33.50:645][ 90]AllActors Call During Gameplay: World Time 2521651.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.34.00:666][391]AllActors Call During Gameplay: World Time 2521661.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.34.10:675][690]AllActors Call During Gameplay: World Time 2521671.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.34.20:677][990]AllActors Call During Gameplay: World Time 2521681.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.34.30:683][290]AllActors Call During Gameplay: World Time 2521691.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.34.40:703][590]AllActors Call During Gameplay: World Time 2521701.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.34.50:714][890]AllActors Call During Gameplay: World Time 2521711.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.35.00:716][190]AllActors Call During Gameplay: World Time 2521721.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.35.10:745][490]AllActors Call During Gameplay: World Time 2521731.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.35.18:893][734]AllActors Call During Gameplay: World Time 2521739.5, Class DinoStorage2CCA_C
+[2020.03.07-21.35.20:760][790]AllActors Call During Gameplay: World Time 2521741.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.35.23:700][878]AllActors Call During Gameplay: World Time 2521744.3, Class DinoStorage2CCA_C
+[2020.03.07-21.35.26:964][976]AllActors Call During Gameplay: World Time 2521747.5, Class DinoStorage2CCA_C
+[2020.03.07-21.35.30:761][ 90]AllActors Call During Gameplay: World Time 2521751.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.35.40:770][390]AllActors Call During Gameplay: World Time 2521761.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.35.50:788][687]AllActors Call During Gameplay: World Time 2521771.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.36.00:796][987]AllActors Call During Gameplay: World Time 2521781.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.36.10:808][286]AllActors Call During Gameplay: World Time 2521791.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.36.20:820][586]AllActors Call During Gameplay: World Time 2521801.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.36.30:832][886]AllActors Call During Gameplay: World Time 2521811.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.36.40:855][187]AllActors Call During Gameplay: World Time 2521821.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.36.50:869][487]AllActors Call During Gameplay: World Time 2521831.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.37.00:879][787]AllActors Call During Gameplay: World Time 2521841.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.37.10:887][ 87]AllActors Call During Gameplay: World Time 2521851.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.37.20:896][387]AllActors Call During Gameplay: World Time 2521861.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.37.30:911][687]AllActors Call During Gameplay: World Time 2521871.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.37.40:912][987]AllActors Call During Gameplay: World Time 2521881.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.37.50:940][284]AllActors Call During Gameplay: World Time 2521891.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.38.00:942][584]AllActors Call During Gameplay: World Time 2521901.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.38.10:958][883]AllActors Call During Gameplay: World Time 2521911.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.38.20:984][184]AllActors Call During Gameplay: World Time 2521921.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.38.31:013][485]AllActors Call During Gameplay: World Time 2521931.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.38.41:021][785]AllActors Call During Gameplay: World Time 2521941.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.38.51:029][ 85]AllActors Call During Gameplay: World Time 2521951.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.39.01:585][367]AllActors Call During Gameplay: World Time 2521961.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.39.11:597][667]AllActors Call During Gameplay: World Time 2521971.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.39.21:596][967]AllActors Call During Gameplay: World Time 2521981.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.39.31:601][267]AllActors Call During Gameplay: World Time 2521991.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.39.41:608][567]AllActors Call During Gameplay: World Time 2522001.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.39.51:627][864]AllActors Call During Gameplay: World Time 2522011.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.40.01:645][164]AllActors Call During Gameplay: World Time 2522021.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.40.11:657][463]AllActors Call During Gameplay: World Time 2522031.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.40.21:686][764]AllActors Call During Gameplay: World Time 2522041.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.40.31:693][ 64]AllActors Call During Gameplay: World Time 2522051.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.40.41:696][364]AllActors Call During Gameplay: World Time 2522061.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.40.51:706][664]AllActors Call During Gameplay: World Time 2522071.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.40.54:436][746]AllActors Call During Gameplay: World Time 2522074.5, Class DinoStorage2CCA_C
+[2020.03.07-21.40.59:509][898]AllActors Call During Gameplay: World Time 2522079.5, Class DinoStorage2CCA_C
+[2020.03.07-21.41.01:732][965]AllActors Call During Gameplay: World Time 2522081.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.41.03:203][  9]AllActors Call During Gameplay: World Time 2522083.3, Class DinoStorage2CCA_C
+[2020.03.07-21.41.11:756][265]AllActors Call During Gameplay: World Time 2522091.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.41.21:767][565]AllActors Call During Gameplay: World Time 2522101.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.41.31:782][863]AllActors Call During Gameplay: World Time 2522112.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.41.41:794][163]AllActors Call During Gameplay: World Time 2522122.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.41.51:817][460]AllActors Call During Gameplay: World Time 2522132.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.42.01:823][760]AllActors Call During Gameplay: World Time 2522142.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.42.11:831][ 59]AllActors Call During Gameplay: World Time 2522152.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.42.21:851][359]AllActors Call During Gameplay: World Time 2522162.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.42.31:880][659]AllActors Call During Gameplay: World Time 2522172.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.42.41:902][959]AllActors Call During Gameplay: World Time 2522182.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.42.51:908][259]AllActors Call During Gameplay: World Time 2522192.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.43.01:927][559]AllActors Call During Gameplay: World Time 2522202.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.43.11:952][859]AllActors Call During Gameplay: World Time 2522212.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.43.21:961][159]AllActors Call During Gameplay: World Time 2522222.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.43.31:963][459]AllActors Call During Gameplay: World Time 2522232.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.43.41:971][759]AllActors Call During Gameplay: World Time 2522242.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.43.51:991][ 56]AllActors Call During Gameplay: World Time 2522252.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.44.02:012][357]AllActors Call During Gameplay: World Time 2522262.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.44.12:011][655]AllActors Call During Gameplay: World Time 2522272.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.44.22:020][955]AllActors Call During Gameplay: World Time 2522282.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.44.32:036][255]AllActors Call During Gameplay: World Time 2522292.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.44.42:049][555]AllActors Call During Gameplay: World Time 2522302.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.44.52:080][856]AllActors Call During Gameplay: World Time 2522312.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.45.02:101][156]AllActors Call During Gameplay: World Time 2522322.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.45.12:109][456]AllActors Call During Gameplay: World Time 2522332.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.45.22:118][756]AllActors Call During Gameplay: World Time 2522342.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.45.32:127][ 56]AllActors Call During Gameplay: World Time 2522352.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.45.42:156][357]AllActors Call During Gameplay: World Time 2522362.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.45.52:185][654]AllActors Call During Gameplay: World Time 2522372.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.46.02:198][954]AllActors Call During Gameplay: World Time 2522382.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.46.12:209][253]AllActors Call During Gameplay: World Time 2522392.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.46.22:215][553]AllActors Call During Gameplay: World Time 2522402.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.46.32:248][854]AllActors Call During Gameplay: World Time 2522412.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.46.42:267][154]AllActors Call During Gameplay: World Time 2522422.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.46.52:276][454]AllActors Call During Gameplay: World Time 2522432.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.47.02:301][755]AllActors Call During Gameplay: World Time 2522442.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.47.12:322][ 55]AllActors Call During Gameplay: World Time 2522452.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.47.22:340][355]AllActors Call During Gameplay: World Time 2522462.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.47.32:354][655]AllActors Call During Gameplay: World Time 2522472.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.47.42:387][956]AllActors Call During Gameplay: World Time 2522482.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.47.44:066][  6]AllActors Call During Gameplay: World Time 2522484.3, Class DinoStorage2CCA_C
+[2020.03.07-21.47.52:405][252]AllActors Call During Gameplay: World Time 2522492.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.47.52:477][254]AllActors Call During Gameplay: World Time 2522492.5, Class DinoStorage2CCA_C
+[2020.03.07-21.48.02:435][553]AllActors Call During Gameplay: World Time 2522502.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.48.12:459][852]AllActors Call During Gameplay: World Time 2522512.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.48.22:481][152]AllActors Call During Gameplay: World Time 2522522.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.48.32:490][452]AllActors Call During Gameplay: World Time 2522532.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.48.42:508][752]AllActors Call During Gameplay: World Time 2522542.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.48.52:525][ 52]AllActors Call During Gameplay: World Time 2522552.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.49.02:555][352]AllActors Call During Gameplay: World Time 2522562.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.49.12:574][652]AllActors Call During Gameplay: World Time 2522572.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.49.22:576][952]AllActors Call During Gameplay: World Time 2522582.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.49.32:577][252]AllActors Call During Gameplay: World Time 2522592.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.49.33:544][281]AllActors Call During Gameplay: World Time 2522593.8, Class DinoStorage2CCA_C
+[2020.03.07-21.49.42:582][552]AllActors Call During Gameplay: World Time 2522602.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.49.44:762][617]AllActors Call During Gameplay: World Time 2522604.8, Class DinoStorage2CCA_C
+[2020.03.07-21.49.52:605][849]AllActors Call During Gameplay: World Time 2522612.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.50.02:616][149]AllActors Call During Gameplay: World Time 2522622.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.50.12:641][448]AllActors Call During Gameplay: World Time 2522632.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.50.22:661][748]AllActors Call During Gameplay: World Time 2522642.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.50.32:667][ 48]AllActors Call During Gameplay: World Time 2522652.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.50.42:679][348]AllActors Call During Gameplay: World Time 2522662.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.50.49:854][563]AllActors Call During Gameplay: World Time 2522670.0, Class DinoStorage2CCA_C
+[2020.03.07-21.50.52:691][648]AllActors Call During Gameplay: World Time 2522672.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.51.02:694][948]AllActors Call During Gameplay: World Time 2522682.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.51.07:040][ 78]AllActors Call During Gameplay: World Time 2522687.3, Class DinoStorage2CCA_C
+[2020.03.07-21.51.12:709][248]AllActors Call During Gameplay: World Time 2522692.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.51.19:993][466]AllActors Call During Gameplay: World Time 2522700.0, Class DinoStorage2CCA_C
+[2020.03.07-21.51.22:734][548]AllActors Call During Gameplay: World Time 2522702.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.51.32:759][849]AllActors Call During Gameplay: World Time 2522712.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.51.42:759][149]AllActors Call During Gameplay: World Time 2522722.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.51.52:780][446]AllActors Call During Gameplay: World Time 2522732.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.52.02:791][746]AllActors Call During Gameplay: World Time 2522743.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.52.12:792][ 44]AllActors Call During Gameplay: World Time 2522753.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.52.22:794][344]AllActors Call During Gameplay: World Time 2522763.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.52.32:286][629]AllActors Call During Gameplay: World Time 2522772.5, Class DinoStorage2CCA_C
+[2020.03.07-21.52.32:816][645]AllActors Call During Gameplay: World Time 2522773.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.52.42:825][945]AllActors Call During Gameplay: World Time 2522783.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.52.52:829][245]AllActors Call During Gameplay: World Time 2522793.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.53.02:861][546]AllActors Call During Gameplay: World Time 2522803.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.53.12:882][846]AllActors Call During Gameplay: World Time 2522813.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.53.22:887][146]AllActors Call During Gameplay: World Time 2522823.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.53.32:904][446]AllActors Call During Gameplay: World Time 2522833.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.53.39:147][633]AllActors Call During Gameplay: World Time 2522839.3, Class DinoStorage2CCA_C
+[2020.03.07-21.53.42:907][746]AllActors Call During Gameplay: World Time 2522843.0, Class Iguanodon_Character_BP_C
+[2020.03.07-21.53.53:716][ 32]AllActors Call During Gameplay: World Time 2522853.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.54.03:725][332]AllActors Call During Gameplay: World Time 2522863.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.54.13:747][631]AllActors Call During Gameplay: World Time 2522873.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.54.23:768][932]AllActors Call During Gameplay: World Time 2522883.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.54.26:911][ 26]AllActors Call During Gameplay: World Time 2522886.5, Class DinoStorage2CCA_C
+[2020.03.07-21.54.33:781][232]AllActors Call During Gameplay: World Time 2522893.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.54.43:797][532]AllActors Call During Gameplay: World Time 2522903.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.54.53:799][832]AllActors Call During Gameplay: World Time 2522913.3, Class Iguanodon_Character_BP_C
+[2020.03.07-21.55.03:832][133]AllActors Call During Gameplay: World Time 2522923.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.55.13:866][434]AllActors Call During Gameplay: World Time 2522933.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.55.23:889][735]AllActors Call During Gameplay: World Time 2522943.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.55.33:889][ 35]AllActors Call During Gameplay: World Time 2522953.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.55.43:892][330]AllActors Call During Gameplay: World Time 2522963.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.55.53:919][627]AllActors Call During Gameplay: World Time 2522973.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.56.03:921][927]AllActors Call During Gameplay: World Time 2522983.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.56.13:939][219]AllActors Call During Gameplay: World Time 2522993.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.56.23:955][512]AllActors Call During Gameplay: World Time 2523003.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.56.33:978][808]AllActors Call During Gameplay: World Time 2523013.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.56.43:988][108]AllActors Call During Gameplay: World Time 2523023.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.56.54:015][409]AllActors Call During Gameplay: World Time 2523033.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.57.04:044][709]AllActors Call During Gameplay: World Time 2523043.5, Class Iguanodon_Character_BP_C
+[2020.03.07-21.57.14:070][  9]AllActors Call During Gameplay: World Time 2523053.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.57.24:089][309]AllActors Call During Gameplay: World Time 2523063.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.57.34:110][609]AllActors Call During Gameplay: World Time 2523073.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.57.44:112][909]AllActors Call During Gameplay: World Time 2523083.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.57.54:123][206]AllActors Call During Gameplay: World Time 2523093.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.58.04:152][507]AllActors Call During Gameplay: World Time 2523103.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.58.14:184][806]AllActors Call During Gameplay: World Time 2523113.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.58.24:200][106]AllActors Call During Gameplay: World Time 2523123.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.58.34:204][405]AllActors Call During Gameplay: World Time 2523133.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.58.44:217][705]AllActors Call During Gameplay: World Time 2523143.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.58.54:249][  6]AllActors Call During Gameplay: World Time 2523153.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.58.54:487][ 13]AllActors Call During Gameplay: World Time 2523154.0, Class DinoStorage2CCA_C
+[2020.03.07-21.58.58:117][122]AllActors Call During Gameplay: World Time 2523157.8, Class DinoStorage2CCA_C
+[2020.03.07-21.59.04:251][306]AllActors Call During Gameplay: World Time 2523163.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.59.14:279][606]AllActors Call During Gameplay: World Time 2523173.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.59.24:290][906]AllActors Call During Gameplay: World Time 2523183.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.59.34:308][206]AllActors Call During Gameplay: World Time 2523193.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.59.44:309][506]AllActors Call During Gameplay: World Time 2523203.8, Class Iguanodon_Character_BP_C
+[2020.03.07-21.59.54:337][801]AllActors Call During Gameplay: World Time 2523214.0, Class Iguanodon_Character_BP_C
+[2020.03.07-22.00.04:362][ 97]AllActors Call During Gameplay: World Time 2523224.0, Class Iguanodon_Character_BP_C
+[2020.03.07-22.00.14:377][396]AllActors Call During Gameplay: World Time 2523234.0, Class Iguanodon_Character_BP_C
+[2020.03.07-22.00.24:382][696]AllActors Call During Gameplay: World Time 2523244.0, Class Iguanodon_Character_BP_C
+[2020.03.07-22.00.34:396][996]AllActors Call During Gameplay: World Time 2523254.0, Class Iguanodon_Character_BP_C
+[2020.03.07-22.00.44:398][296]AllActors Call During Gameplay: World Time 2523264.0, Class Iguanodon_Character_BP_C
+[2020.03.07-22.00.54:426][597]AllActors Call During Gameplay: World Time 2523274.0, Class Iguanodon_Character_BP_C
+[2020.03.07-22.01.04:448][897]AllActors Call During Gameplay: World Time 2523284.0, Class Iguanodon_Character_BP_C
+[2020.03.07-22.01.11:640][112]AllActors Call During Gameplay: World Time 2523291.3, Class DinoStorage2CCA_C
+[2020.03.07-22.01.14:469][197]AllActors Call During Gameplay: World Time 2523294.0, Class Iguanodon_Character_BP_C
+[2020.03.07-22.01.24:497][498]AllActors Call During Gameplay: World Time 2523304.0, Class Iguanodon_Character_BP_C
+[2020.03.07-22.01.34:516][798]AllActors Call During Gameplay: World Time 2523314.0, Class Iguanodon_Character_BP_C
+[2020.03.07-22.01.44:548][ 99]AllActors Call During Gameplay: World Time 2523324.0, Class Iguanodon_Character_BP_C
+[2020.03.07-22.01.54:577][396]AllActors Call During Gameplay: World Time 2523334.3, Class Iguanodon_Character_BP_C
+[2020.03.07-22.02.04:596][697]AllActors Call During Gameplay: World Time 2523344.3, Class Iguanodon_Character_BP_C
+[2020.03.07-22.02.14:607][996]AllActors Call During Gameplay: World Time 2523354.3, Class Iguanodon_Character_BP_C
+[2020.03.07-22.02.24:610][296]AllActors Call During Gameplay: World Time 2523364.3, Class Iguanodon_Character_BP_C
+[2020.03.07-22.02.34:626][596]AllActors Call During Gameplay: World Time 2523374.3, Class Iguanodon_Character_BP_C
+[2020.03.07-22.02.44:657][897]AllActors Call During Gameplay: World Time 2523384.3, Class Iguanodon_Character_BP_C
+[2020.03.07-22.02.54:665][197]AllActors Call During Gameplay: World Time 2523394.3, Class Iguanodon_Character_BP_C
+[2020.03.07-22.03.04:667][497]AllActors Call During Gameplay: World Time 2523404.3, Class Iguanodon_Character_BP_C
+[2020.03.07-22.03.14:689][797]AllActors Call During Gameplay: World Time 2523414.3, Class Iguanodon_Character_BP_C
+[2020.03.07-22.03.24:700][ 97]AllActors Call During Gameplay: World Time 2523424.3, Class Iguanodon_Character_BP_C
+[2020.03.07-22.03.34:706][397]AllActors Call During Gameplay: World Time 2523434.3, Class Iguanodon_Character_BP_C
+[2020.03.07-22.03.44:728][697]AllActors Call During Gameplay: World Time 2523444.3, Class Iguanodon_Character_BP_C
+[2020.03.07-22.03.54:737][994]AllActors Call During Gameplay: World Time 2523454.3, Class Iguanodon_Character_BP_C
+[2020.03.07-22.04.04:741][294]AllActors Call During Gameplay: World Time 2523464.3, Class Iguanodon_Character_BP_C
+[2020.03.07-22.04.14:770][593]AllActors Call During Gameplay: World Time 2523474.3, Class Iguanodon_Character_BP_C
+[2020.03.07-22.04.24:798][894]AllActors Call During Gameplay: World Time 2523484.3, Class Iguanodon_Character_BP_C
+[2020.03.07-22.04.34:815][194]AllActors Call During Gameplay: World Time 2523494.5, Class Iguanodon_Character_BP_C
+[2020.03.07-22.04.44:820][494]AllActors Call During Gameplay: World Time 2523504.5, Class Iguanodon_Character_BP_C
+[2020.03.07-22.04.54:852][795]AllActors Call During Gameplay: World Time 2523514.5, Class Iguanodon_Character_BP_C
+[2020.03.07-22.05.04:858][ 95]AllActors Call During Gameplay: World Time 2523524.5, Class Iguanodon_Character_BP_C
+[2020.03.07-22.05.14:887][395]AllActors Call During Gameplay: World Time 2523534.5, Class Iguanodon_Character_BP_C
+[2020.03.07-22.05.24:895][695]AllActors Call During Gameplay: World Time 2523544.5, Class Iguanodon_Character_BP_C
+[2020.03.07-22.05.34:899][995]AllActors Call During Gameplay: World Time 2523554.5, Class Iguanodon_Character_BP_C
+[2020.03.07-22.05.44:904][295]AllActors Call During Gameplay: World Time 2523564.5, Class Iguanodon_Character_BP_C
+[2020.03.07-22.05.54:934][593]AllActors Call During Gameplay: World Time 2523574.5, Class Iguanodon_Character_BP_C
+[2020.03.07-22.06.04:940][893]AllActors Call During Gameplay: World Time 2523584.5, Class Iguanodon_Character_BP_C
+[2020.03.07-22.06.14:958][192]AllActors Call During Gameplay: World Time 2523594.5, Class Iguanodon_Character_BP_C
+[2020.03.07-22.06.24:961][492]AllActors Call During Gameplay: World Time 2523604.5, Class Iguanodon_Character_BP_C
+[2020.03.07-22.06.34:976][792]AllActors Call During Gameplay: World Time 2523614.5, Class Iguanodon_Character_BP_C
+[2020.03.07-22.06.45:003][ 93]AllActors Call During Gameplay: World Time 2523624.5, Class Iguanodon_Character_BP_C
+[2020.03.07-22.06.55:011][393]AllActors Call During Gameplay: World Time 2523634.5, Class Iguanodon_Character_BP_C
+[2020.03.07-22.07.05:023][693]AllActors Call During Gameplay: World Time 2523644.5, Class Iguanodon_Character_BP_C
+[2020.03.07-22.07.15:038][993]AllActors Call During Gameplay: World Time 2523654.5, Class Iguanodon_Character_BP_C
+[2020.03.07-22.07.25:069][294]AllActors Call During Gameplay: World Time 2523664.8, Class Iguanodon_Character_BP_C
+[2020.03.07-22.07.35:074][594]AllActors Call During Gameplay: World Time 2523674.8, Class Iguanodon_Character_BP_C
+[2020.03.07-22.07.45:088][894]AllActors Call During Gameplay: World Time 2523684.8, Class Iguanodon_Character_BP_C
+[2020.03.07-22.07.55:105][189]AllActors Call During Gameplay: World Time 2523694.8, Class Iguanodon_Character_BP_C
+[2020.03.07-22.08.05:110][489]AllActors Call During Gameplay: World Time 2523704.8, Class Iguanodon_Character_BP_C
+[2020.03.07-22.08.15:128][788]AllActors Call During Gameplay: World Time 2523714.8, Class Iguanodon_Character_BP_C
+[2020.03.07-22.08.25:161][ 89]AllActors Call During Gameplay: World Time 2523724.8, Class Iguanodon_Character_BP_C
+[2020.03.07-22.08.35:170][389]AllActors Call During Gameplay: World Time 2523734.8, Class Iguanodon_Character_BP_C
+[2020.03.07-22.08.39:052][505]AllActors Call During Gameplay: World Time 2523738.5, Class DinoStorage2CCA_C
+[2020.03.07-22.08.42:585][611]AllActors Call During Gameplay: World Time 2523742.3, Class DinoStorage2CCA_C
+[2020.03.07-22.08.45:179][689]AllActors Call During Gameplay: World Time 2523744.8, Class Iguanodon_Character_BP_C
+[2020.03.07-22.08.55:717][971]AllActors Call During Gameplay: World Time 2523754.8, Class Iguanodon_Character_BP_C
+[2020.03.07-22.09.05:718][271]AllActors Call During Gameplay: World Time 2523764.8, Class Iguanodon_Character_BP_C
+[2020.03.07-22.09.15:745][571]AllActors Call During Gameplay: World Time 2523774.8, Class Iguanodon_Character_BP_C
+[2020.03.07-22.09.25:751][871]AllActors Call During Gameplay: World Time 2523784.8, Class Iguanodon_Character_BP_C
+[2020.03.07-22.09.35:755][171]AllActors Call During Gameplay: World Time 2523794.8, Class Iguanodon_Character_BP_C
+[2020.03.07-22.09.45:762][471]AllActors Call During Gameplay: World Time 2523804.8, Class Iguanodon_Character_BP_C
+[2020.03.07-22.09.55:793][768]AllActors Call During Gameplay: World Time 2523814.8, Class Iguanodon_Character_BP_C
+[2020.03.07-22.10.05:808][ 68]AllActors Call During Gameplay: World Time 2523824.8, Class Iguanodon_Character_BP_C
+[2020.03.07-22.10.15:817][367]AllActors Call During Gameplay: World Time 2523834.8, Class Iguanodon_Character_BP_C
+[2020.03.07-22.10.25:845][668]AllActors Call During Gameplay: World Time 2523845.0, Class Iguanodon_Character_BP_C
+[2020.03.07-22.10.35:864][968]AllActors Call During Gameplay: World Time 2523855.0, Class Iguanodon_Character_BP_C
+[2020.03.07-22.10.45:899][269]AllActors Call During Gameplay: World Time 2523865.0, Class Iguanodon_Character_BP_C
+[2020.03.07-22.10.52:970][481]AllActors Call During Gameplay: World Time 2523872.0, Class Rings_BP_C
+[2020.03.07-22.10.55:909][569]AllActors Call During Gameplay: World Time 2523875.0, Class Iguanodon_Character_BP_C
+[2020.03.07-22.11.05:913][869]AllActors Call During Gameplay: World Time 2523885.0, Class Iguanodon_Character_BP_C
+[2020.03.07-22.11.15:921][168]AllActors Call During Gameplay: World Time 2523895.0, Class Iguanodon_Character_BP_C
+[2020.03.07-22.11.25:931][468]AllActors Call During Gameplay: World Time 2523905.0, Class Iguanodon_Character_BP_C
+[2020.03.07-22.11.35:943][768]AllActors Call During Gameplay: World Time 2523915.0, Class Iguanodon_Character_BP_C
+[2020.03.07-22.11.45:973][ 69]AllActors Call During Gameplay: World Time 2523925.0, Class Iguanodon_Character_BP_C
+[2020.03.07-22.11.55:990][365]AllActors Call During Gameplay: World Time 2523935.0, Class Iguanodon_Character_BP_C
+[2020.03.07-22.12.06:007][665]AllActors Call During Gameplay: World Time 2523945.0, Class Iguanodon_Character_BP_C
+[2020.03.07-22.12.16:038][964]AllActors Call During Gameplay: World Time 2523955.0, Class Iguanodon_Character_BP_C
+[2020.03.07-22.12.26:069][265]AllActors Call During Gameplay: World Time 2523965.0, Class Iguanodon_Character_BP_C
+[2020.03.07-22.12.36:096][565]AllActors Call During Gameplay: World Time 2523975.3, Class Iguanodon_Character_BP_C
+[2020.03.07-22.12.46:112][865]AllActors Call During Gameplay: World Time 2523985.3, Class Iguanodon_Character_BP_C
+[2020.03.07-22.12.56:136][163]AllActors Call During Gameplay: World Time 2523995.3, Class Iguanodon_Character_BP_C
+[2020.03.07-22.13.06:156][463]AllActors Call During Gameplay: World Time 2524005.3, Class Iguanodon_Character_BP_C
+[2020.03.07-22.13.16:170][754]AllActors Call During Gameplay: World Time 2524015.3, Class Iguanodon_Character_BP_C
+[2020.03.07-22.13.26:193][ 53]AllActors Call During Gameplay: World Time 2524025.3, Class Iguanodon_Character_BP_C
+[2020.03.07-22.13.36:224][348]AllActors Call During Gameplay: World Time 2524035.3, Class Iguanodon_Character_BP_C
+[2020.03.07-22.13.46:246][649]AllActors Call During Gameplay: World Time 2524045.3, Class Iguanodon_Character_BP_C
+[2020.03.07-22.13.56:262][945]AllActors Call During Gameplay: World Time 2524055.3, Class Iguanodon_Character_BP_C
+[2020.03.07-22.14.06:276][243]AllActors Call During Gameplay: World Time 2524065.3, Class Iguanodon_Character_BP_C
+[2020.03.07-22.14.16:300][538]AllActors Call During Gameplay: World Time 2524075.3, Class Iguanodon_Character_BP_C
+[2020.03.07-22.14.26:317][838]AllActors Call During Gameplay: World Time 2524085.3, Class Iguanodon_Character_BP_C
+[2020.03.07-22.14.36:315][135]AllActors Call During Gameplay: World Time 2524095.3, Class Iguanodon_Character_BP_C
+[2020.03.07-22.14.46:347][432]AllActors Call During Gameplay: World Time 2524105.5, Class Iguanodon_Character_BP_C
+[2020.03.07-22.14.56:376][733]AllActors Call During Gameplay: World Time 2524115.5, Class Iguanodon_Character_BP_C
+[2020.03.07-22.15.06:382][ 32]AllActors Call During Gameplay: World Time 2524125.5, Class Iguanodon_Character_BP_C
+[2020.03.07-22.15.16:390][332]AllActors Call During Gameplay: World Time 2524135.5, Class Iguanodon_Character_BP_C
+[2020.03.07-22.15.26:400][632]AllActors Call During Gameplay: World Time 2524145.5, Class Iguanodon_Character_BP_C
+[2020.03.07-22.15.36:427][933]AllActors Call During Gameplay: World Time 2524155.5, Class Iguanodon_Character_BP_C
+[2020.03.07-22.15.46:432][233]AllActors Call During Gameplay: World Time 2524165.5, Class Iguanodon_Character_BP_C
+[2020.03.07-22.15.50:579][353]AllActors Call During Gameplay: World Time 2524169.5, Class DinoStorage2CCA_C
+[2020.03.07-22.15.56:442][529]AllActors Call During Gameplay: World Time 2524175.5, Class Iguanodon_Character_BP_C
+[2020.03.07-22.16.06:474][828]AllActors Call During Gameplay: World Time 2524185.5, Class Iguanodon_Character_BP_C
+[2020.03.07-22.16.16:498][128]AllActors Call During Gameplay: World Time 2524195.5, Class Iguanodon_Character_BP_C
+[2020.03.07-22.16.26:522][428]AllActors Call During Gameplay: World Time 2524205.5, Class Iguanodon_Character_BP_C
+[2020.03.07-22.16.36:525][728]AllActors Call During Gameplay: World Time 2524215.5, Class Iguanodon_Character_BP_C
+[2020.03.07-22.16.46:556][ 29]AllActors Call During Gameplay: World Time 2524225.5, Class Iguanodon_Character_BP_C
+[2020.03.07-22.16.56:559][329]AllActors Call During Gameplay: World Time 2524235.5, Class Iguanodon_Character_BP_C
+[2020.03.07-22.17.06:568][629]AllActors Call During Gameplay: World Time 2524245.5, Class Iguanodon_Character_BP_C
+[2020.03.07-22.17.16:577][929]AllActors Call During Gameplay: World Time 2524255.5, Class Iguanodon_Character_BP_C
+[2020.03.07-22.17.26:580][229]AllActors Call During Gameplay: World Time 2524265.5, Class Iguanodon_Character_BP_C
+[2020.03.07-22.17.36:607][530]AllActors Call During Gameplay: World Time 2524275.8, Class Iguanodon_Character_BP_C
+[2020.03.07-22.17.46:627][830]AllActors Call During Gameplay: World Time 2524285.8, Class Iguanodon_Character_BP_C
+[2020.03.07-22.17.56:650][127]AllActors Call During Gameplay: World Time 2524295.8, Class Iguanodon_Character_BP_C
+[2020.03.07-22.18.06:679][426]AllActors Call During Gameplay: World Time 2524305.8, Class Iguanodon_Character_BP_C
+[2020.03.07-22.18.16:689][726]AllActors Call During Gameplay: World Time 2524315.8, Class Iguanodon_Character_BP_C
+[2020.03.07-22.18.26:698][ 26]AllActors Call During Gameplay: World Time 2524325.8, Class Iguanodon_Character_BP_C
+[2020.03.07-22.18.36:708][326]AllActors Call During Gameplay: World Time 2524335.8, Class Iguanodon_Character_BP_C
+[2020.03.07-22.18.46:730][626]AllActors Call During Gameplay: World Time 2524345.8, Class Iguanodon_Character_BP_C
+[2020.03.07-22.18.56:738][926]AllActors Call During Gameplay: World Time 2524355.8, Class Iguanodon_Character_BP_C
+[2020.03.07-22.19.06:758][226]AllActors Call During Gameplay: World Time 2524365.8, Class Iguanodon_Character_BP_C
+[2020.03.07-22.19.16:773][526]AllActors Call During Gameplay: World Time 2524375.8, Class Iguanodon_Character_BP_C
+[2020.03.07-22.19.26:794][826]AllActors Call During Gameplay: World Time 2524385.8, Class Iguanodon_Character_BP_C
+[2020.03.07-22.19.36:799][126]AllActors Call During Gameplay: World Time 2524395.8, Class Iguanodon_Character_BP_C
+[2020.03.07-22.19.46:811][426]AllActors Call During Gameplay: World Time 2524405.8, Class Iguanodon_Character_BP_C
+[2020.03.07-22.19.56:810][722]AllActors Call During Gameplay: World Time 2524415.8, Class Iguanodon_Character_BP_C
+[2020.03.07-22.20.06:826][ 21]AllActors Call During Gameplay: World Time 2524425.8, Class Iguanodon_Character_BP_C
+[2020.03.07-22.20.16:836][321]AllActors Call During Gameplay: World Time 2524436.0,

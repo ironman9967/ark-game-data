@@ -1,0 +1,188 @@
+﻿[2020.03.08-19.49.48:613][  0]Log file open, 03/08/20 14:49:48
+[2020.03.08-19.49.48:613][  0]LogMemory: Platform Memory Stats for WindowsServer
+[2020.03.08-19.49.48:613][  0]LogMemory: Process Physical Memory: 59.59 MB used, 59.59 MB peak
+[2020.03.08-19.49.48:613][  0]LogMemory: Process Virtual Memory: 49.59 MB used, 49.72 MB peak
+[2020.03.08-19.49.48:613][  0]LogMemory: Physical Memory: 58386.47 MB used, 65436.48 MB total
+[2020.03.08-19.49.48:613][  0]LogMemory: Virtual Memory: 4396.88 MB used, 134217728.00 MB total
+[2020.03.08-19.49.49:037][  0]ARK Version: 306.5
+[2020.03.08-19.49.49:037][  0]PID: 14016
+[2020.03.08-19.50.48:574][  0]Primal Game Data Took 55.90 seconds
+[2020.03.08-19.52.01:132][  0]Server: "ironark" has successfully started!
+[2020.03.08-19.52.12:667][  0]Commandline: "TheIsland?RCONEnabled=True?RCONPort=27054?SessionName=ironark?MaxPlayers=30?Port=27053?QueryPort=27053?NonPermanentDiseases=true?AllowRaidDinoFeeding=true?PreventDiseases=false?AutoDestroyOldStructuresMultiplier=1?ShowFloatingDamageText=true?AllowAnyoneBabyImprintCuddle=true?OverrideStructurePlatformPrevention=true?TribeLogDestroyedEnemyStructures=true?PvEAllowStructuresAtSupplyDrops=true?OverrideOfficialDifficulty=4?PreventOfflinePvPInterval=900?ServerPassword=9967?ServerAdminPassword=ironarkAdmin0?listen -ForceAllowCaveFlyers  -NoBattlEye  -clusterid= 
+[2020.03.08-19.52.12:667][  0]Full Startup: 146.31 seconds (BP compile: 0.00 seconds)
+[2020.03.08-19.52.12:667][  0]Number of cores 6
+[2020.03.08-19.52.13:074][  3]AllActors Call During Gameplay: World Time 2599600.8, Class DinoStorage2CCA_C
+[2020.03.08-19.52.42:683][880]AllActors Call During Gameplay: World Time 2599630.5, Class CompostBin_C
+[2020.03.08-20.00.18:889][531]AllActors Call During Gameplay: World Time 2600086.8, Class DinoStorage2CCA_C
+[2020.03.08-20.00.34:056][984]AllActors Call During Gameplay: World Time 2600102.0, Class DinoStorage2CCA_C
+[2020.03.08-20.00.39:495][147]AllActors Call During Gameplay: World Time 2600107.3, Class DinoStorage2CCA_C
+[2020.03.08-20.00.42:429][235]AllActors Call During Gameplay: World Time 2600110.3, Class DinoStorage2CCA_C
+[2020.03.08-20.00.49:200][438]AllActors Call During Gameplay: World Time 2600117.0, Class DinoStorage2CCA_C
+[2020.03.08-20.00.54:406][594]AllActors Call During Gameplay: World Time 2600122.3, Class DinoStorage2CCA_C
+[2020.03.08-20.04.07:935][390]AllActors Call During Gameplay: World Time 2600315.8, Class StarGates_BP_C
+[2020.03.08-20.04.11:951][510]AllActors Call During Gameplay: World Time 2600319.8, Class StarGates_BP_C
+[2020.03.08-20.04.24:682][887]AllActors Call During Gameplay: World Time 2600332.5, Class StarGates_BP_C
+[2020.03.08-20.07.29:429][371]AllActors Call During Gameplay: World Time 2600516.5, Class StarGates_BP_C
+[2020.03.08-20.07.32:938][476]AllActors Call During Gameplay: World Time 2600520.0, Class StarGates_BP_C
+[2020.03.08-20.07.45:919][862]AllActors Call During Gameplay: World Time 2600533.0, Class StarGates_BP_C
+[2020.03.08-20.10.33:134][857]AllActors Call During Gameplay: World Time 2600700.3, Class DinoStorage2CCA_C
+[2020.03.08-20.13.26:532][ 46]AllActors Call During Gameplay: World Time 2600873.8, Class StarGates_BP_C
+[2020.03.08-20.13.30:272][158]AllActors Call During Gameplay: World Time 2600877.5, Class StarGates_BP_C
+[2020.03.08-20.13.32:737][231]AllActors Call During Gameplay: World Time 2600880.0, Class StarGates_BP_C
+[2020.03.08-20.20.24:495][540]AllActors Call During Gameplay: World Time 2601291.8, Class StarGates_BP_C
+[2020.03.08-20.20.28:136][647]AllActors Call During Gameplay: World Time 2601295.3, Class StarGates_BP_C
+[2020.03.08-20.20.51:029][330]AllActors Call During Gameplay: World Time 2601318.3, Class StarGates_BP_C
+[2020.03.08-20.23.43:213][441]AllActors Call During Gameplay: World Time 2601489.8, Class DinoStorage2CCA_C
+[2020.03.08-20.27.23:016][999]AllActors Call During Gameplay: World Time 2601709.5, Class DinoStorage2CCA_C
+[2020.03.08-20.27.57:901][ 43]AllActors Call During Gameplay: World Time 2601744.5, Class DinoStorage2CCA_C
+[2020.03.08-20.30.25:710][456]AllActors Call During Gameplay: World Time 2601892.3, Class DinoStorage2CCA_C
+[2020.03.08-20.37.03:771][208]AllActors Call During Gameplay: World Time 2602289.8, Class DinoStorage2CCA_C
+[2020.03.08-20.37.07:200][311]AllActors Call During Gameplay: World Time 2602293.3, Class DinoStorage2CCA_C
+[2020.03.08-20.37.40:024][294]AllActors Call During Gameplay: World Time 2602326.0, Class DinoStorage2CCA_C
+[2020.03.08-20.41.09:619][503]AllActors Call During Gameplay: World Time 2602535.5, Class DinoStorage2CCA_C
+[2020.03.08-20.41.56:066][893]AllActors Call During Gameplay: World Time 2602582.0, Class DinoStorage2CCA_C
+[2020.03.08-21.12.26:158][516]AllActors Call During Gameplay: World Time 2604410.8, Class DinoStorage2CCA_C
+[2020.03.08-21.12.48:649][188]AllActors Call During Gameplay: World Time 2604433.3, Class DinoStorage2CCA_C
+[2020.03.08-21.17.03:923][764]AllActors Call During Gameplay: World Time 2604688.5, Class DinoStorage2CCA_C
+[2020.03.08-21.17.10:227][953]AllActors Call During Gameplay: World Time 2604695.0, Class DinoStorage2CCA_C
+[2020.03.08-21.33.20:224][797]AllActors Call During Gameplay: World Time 2605664.3, Class DinoStorage2CCA_C
+[2020.03.08-21.33.25:236][947]AllActors Call During Gameplay: World Time 2605669.3, Class DinoStorage2CCA_C
+[2020.03.08-21.33.55:940][867]AllActors Call During Gameplay: World Time 2605700.0, Class DinoStorage2CCA_C
+[2020.03.08-21.35.25:174][536]AllActors Call During Gameplay: World Time 2605789.3, Class DinoStorage2CCA_C
+[2020.03.08-21.35.35:418][843]AllActors Call During Gameplay: World Time 2605799.5, Class DinoStorage2CCA_C
+[2020.03.08-21.39.26:104][692]AllActors Call During Gameplay: World Time 2606029.3, Class DinoStorage2CCA_C
+[2020.03.08-21.39.51:509][453]AllActors Call During Gameplay: World Time 2606054.8, Class DinoStorage2CCA_C
+[2020.03.08-21.39.55:183][563]AllActors Call During Gameplay: World Time 2606058.5, Class DinoStorage2CCA_C
+[2020.03.08-21.39.59:220][684]AllActors Call During Gameplay: World Time 2606062.5, Class DinoStorage2CCA_C
+[2020.03.08-21.40.27:060][514]AllActors Call During Gameplay: World Time 2606090.3, Class DinoStorage2CCA_C
+[2020.03.08-21.40.38:233][848]AllActors Call During Gameplay: World Time 2606101.5, Class DinoStorage2CCA_C
+[2020.03.08-21.40.41:176][936]AllActors Call During Gameplay: World Time 2606104.5, Class DinoStorage2CCA_C
+[2020.03.08-21.40.44:319][ 30]AllActors Call During Gameplay: World Time 2606107.5, Class DinoStorage2CCA_C
+[2020.03.08-21.40.47:288][119]AllActors Call During Gameplay: World Time 2606110.5, Class DinoStorage2CCA_C
+[2020.03.08-21.43.29:926][962]AllActors Call During Gameplay: World Time 2606273.3, Class DinoStorage2CCA_C
+[2020.03.08-21.43.35:501][129]AllActors Call During Gameplay: World Time 2606278.8, Class DinoStorage2CCA_C
+[2020.03.08-21.47.17:979][776]AllActors Call During Gameplay: World Time 2606501.3, Class DinoStorage2CCA_C
+[2020.03.08-21.47.26:870][ 42]AllActors Call During Gameplay: World Time 2606510.0, Class DinoStorage2CCA_C
+[2020.03.08-21.47.30:004][136]AllActors Call During Gameplay: World Time 2606513.3, Class DinoStorage2CCA_C
+[2020.03.08-21.47.51:438][778]AllActors Call During Gameplay: World Time 2606534.8, Class DinoStorage2CCA_C
+[2020.03.08-21.56.08:192][596]AllActors Call During Gameplay: World Time 2607030.8, Class DinoStorage2CCA_C
+[2020.03.08-23.14.18:606][851]AllActors Call During Gameplay: World Time 2611718.0, Class DinoStorage2CCA_C
+[2020.03.08-23.14.23:345][993]AllActors Call During Gameplay: World Time 2611722.8, Class DinoStorage2CCA_C
+[2020.03.08-23.14.30:363][203]AllActors Call During Gameplay: World Time 2611729.8, Class DinoStorage2CCA_C
+[2020.03.08-23.14.35:034][343]AllActors Call During Gameplay: World Time 2611734.5, Class DinoStorage2CCA_C
+[2020.03.08-23.19.15:699][740]AllActors Call During Gameplay: World Time 2612015.0, Class DinoStorage2CCA_C
+[2020.03.08-23.19.37:525][394]AllActors Call During Gameplay: World Time 2612037.0, Class DinoStorage2CCA_C
+[2020.03.08-23.19.40:761][491]AllActors Call During Gameplay: World Time 2612040.3, Class DinoStorage2CCA_C
+[2020.03.08-23.28.00:957][259]AllActors Call During Gameplay: World Time 2612539.8, Class DinoStorage2CCA_C
+[2020.03.08-23.28.08:260][478]AllActors Call During Gameplay: World Time 2612547.0, Class DinoStorage2CCA_C
+[2020.03.08-23.33.45:704][580]AllActors Call During Gameplay: World Time 2612884.5, Class DinoStorage2CCA_C
+[2020.03.08-23.33.48:846][674]AllActors Call During Gameplay: World Time 2612887.8, Class DinoStorage2CCA_C
+[2020.03.08-23.33.51:846][764]AllActors Call During Gameplay: World Time 2612890.8, Class DinoStorage2CCA_C
+[2020.03.08-23.33.55:436][872]AllActors Call During Gameplay: World Time 2612894.3, Class DinoStorage2CCA_C
+[2020.03.08-23.34.39:314][183]AllActors Call During Gameplay: World Time 2612938.3, Class DinoStorage2CCA_C
+[2020.03.08-23.34.42:561][280]AllActors Call During Gameplay: World Time 2612941.5, Class DinoStorage2CCA_C
+[2020.03.08-23.34.46:031][384]AllActors Call During Gameplay: World Time 2612944.8, Class DinoStorage2CCA_C
+[2020.03.08-23.34.49:136][477]AllActors Call During Gameplay: World Time 2612948.0, Class DinoStorage2CCA_C
+[2020.03.08-23.40.52:805][320]AllActors Call During Gameplay: World Time 2613311.0, Class DinoStorage2CCA_C
+[2020.03.08-23.40.57:911][473]AllActors Call During Gameplay: World Time 2613316.3, Class DinoStorage2CCA_C
+[2020.03.08-23.46.03:463][568]AllActors Call During Gameplay: World Time 2613621.8, Class DinoStorage2CCA_C
+[2020.03.08-23.50.42:015][905]AllActors Call During Gameplay: World Time 2613900.3, Class DinoStorage2CCA_C
+[2020.03.08-23.53.04:452][109]AllActors Call During Gameplay: World Time 2614041.8, Class DinoStorage2CCA_C
+[2020.03.08-23.53.52:086][537]AllActors Call During Gameplay: World Time 2614089.5, Class DinoStorage2CCA_C
+[2020.03.08-23.53.55:530][640]AllActors Call During Gameplay: World Time 2614093.0, Class DinoStorage2CCA_C
+[2020.03.09-00.10.11:149][809]AllActors Call During Gameplay: World Time 2615068.0, Class DinoStorage2CCA_C
+[2020.03.09-00.10.15:950][953]AllActors Call During Gameplay: World Time 2615072.8, Class DinoStorage2CCA_C
+[2020.03.09-00.10.19:459][ 58]AllActors Call During Gameplay: World Time 2615076.3, Class DinoStorage2CCA_C
+[2020.03.09-00.10.24:569][211]AllActors Call During Gameplay: World Time 2615081.5, Class DinoStorage2CCA_C
+[2020.03.09-00.10.33:114][467]AllActors Call During Gameplay: World Time 2615090.0, Class DinoStorage2CCA_C
+[2020.03.09-00.10.36:483][568]AllActors Call During Gameplay: World Time 2615093.3, Class DinoStorage2CCA_C
+[2020.03.09-00.10.41:380][710]AllActors Call During Gameplay: World Time 2615098.3, Class DinoStorage2CCA_C
+[2020.03.09-00.10.44:449][802]AllActors Call During Gameplay: World Time 2615101.3, Class DinoStorage2CCA_C
+[2020.03.09-00.10.48:708][930]AllActors Call During Gameplay: World Time 2615105.5, Class DinoStorage2CCA_C
+[2020.03.09-00.10.51:879][ 25]AllActors Call During Gameplay: World Time 2615108.8, Class DinoStorage2CCA_C
+[2020.03.09-00.11.01:967][327]AllActors Call During Gameplay: World Time 2615118.8, Class DinoStorage2CCA_C
+[2020.03.09-00.11.08:076][510]AllActors Call During Gameplay: World Time 2615125.0, Class DinoStorage2CCA_C
+[2020.03.09-00.11.11:149][602]AllActors Call During Gameplay: World Time 2615128.0, Class DinoStorage2CCA_C
+[2020.03.09-00.11.16:145][752]AllActors Call During Gameplay: World Time 2615133.0, Class DinoStorage2CCA_C
+[2020.03.09-00.11.20:448][881]AllActors Call During Gameplay: World Time 2615137.3, Class DinoStorage2CCA_C
+[2020.03.09-00.11.23:821][982]AllActors Call During Gameplay: World Time 2615140.8, Class DinoStorage2CCA_C
+[2020.03.09-00.11.35:380][329]AllActors Call During Gameplay: World Time 2615152.3, Class DinoStorage2CCA_C
+[2020.03.09-00.16.32:122][199]AllActors Call During Gameplay: World Time 2615449.0, Class DinoStorage2CCA_C
+[2020.03.09-00.17.16:489][524]AllActors Call During Gameplay: World Time 2615493.3, Class DinoStorage2CCA_C
+[2020.03.09-00.17.38:508][184]AllActors Call During Gameplay: World Time 2615515.3, Class DinoStorage2CCA_C
+[2020.03.09-00.19.20:009][222]AllActors Call During Gameplay: World Time 2615616.8, Class Rings_BP_C
+[2020.03.09-00.22.15:290][419]AllActors Call During Gameplay: World Time 2615791.5, Class Rings_BP_C
+[2020.03.09-00.22.49:591][442]AllActors Call During Gameplay: World Time 2615825.8, Class DinoStorage2CCA_C
+[2020.03.09-00.22.55:952][633]AllActors Call During Gameplay: World Time 2615832.3, Class DinoStorage2CCA_C
+[2020.03.09-00.35.12:008][643]AllActors Call During Gameplay: World Time 2616568.3, Class DinoStorage2CCA_C
+[2020.03.09-00.35.15:841][758]AllActors Call During Gameplay: World Time 2616572.3, Class DinoStorage2CCA_C
+[2020.03.09-00.35.19:446][866]AllActors Call During Gameplay: World Time 2616575.8, Class DinoStorage2CCA_C
+[2020.03.09-00.35.22:412][955]AllActors Call During Gameplay: World Time 2616578.8, Class DinoStorage2CCA_C
+[2020.03.09-00.38.07:949][844]AllActors Call During Gameplay: World Time 2616743.8, Class DinoStorage2CCA_C
+[2020.03.09-00.38.10:812][930]AllActors Call During Gameplay: World Time 2616746.5, Class DinoStorage2CCA_C
+[2020.03.09-00.38.17:815][140]AllActors Call During Gameplay: World Time 2616753.5, Class DinoStorage2CCA_C
+[2020.03.09-00.40.30:544][114]AllActors Call During Gameplay: World Time 2616886.3, Class DinoStorage2CCA_C
+[2020.03.09-00.40.34:303][227]AllActors Call During Gameplay: World Time 2616890.0, Class DinoStorage2CCA_C
+[2020.03.09-00.40.37:513][323]AllActors Call During Gameplay: World Time 2616893.3, Class DinoStorage2CCA_C
+[2020.03.09-00.42.20:813][414]AllActors Call During Gameplay: World Time 2616996.5, Class Rings_BP_C
+[2020.03.09-00.47.32:042][712]AllActors Call During Gameplay: World Time 2617307.8, Class Rings_BP_C
+[2020.03.09-00.48.08:437][803]AllActors Call During Gameplay: World Time 2617344.3, Class DinoStorage2CCA_C
+[2020.03.09-00.49.46:691][744]AllActors Call During Gameplay: World Time 2617442.5, Class DinoStorage2CCA_C
+[2020.03.09-00.49.51:267][881]AllActors Call During Gameplay: World Time 2617447.0, Class DinoStorage2CCA_C
+[2020.03.09-00.49.56:277][ 31]AllActors Call During Gameplay: World Time 2617452.0, Class DinoStorage2CCA_C
+[2020.03.09-00.51.57:868][632]AllActors Call During Gameplay: World Time 2617573.0, Class DinoStorage2CCA_C
+[2020.03.09-00.53.14:823][932]AllActors Call During Gameplay: World Time 2617650.0, Class DinoStorage2CCA_C
+[2020.03.09-00.53.33:684][496]AllActors Call During Gameplay: World Time 2617668.8, Class DinoStorage2CCA_C
+[2020.03.09-01.16.17:444][225]AllActors Call During Gameplay: World Time 2619032.0, Class DinoStorage2CCA_C
+[2020.03.09-01.16.22:348][372]AllActors Call During Gameplay: World Time 2619037.0, Class DinoStorage2CCA_C
+[2020.03.09-01.17.29:110][369]AllActors Call During Gameplay: World Time 2619103.8, Class DinoStorage2CCA_C
+[2020.03.09-01.18.44:189][613]AllActors Call During Gameplay: World Time 2619178.8, Class DinoStorage2CCA_C
+[2020.03.09-01.21.49:804][ 87]AllActors Call During Gameplay: World Time 2619363.8, Class DinoStorage2CCA_C
+[2020.03.09-01.29.11:254][300]AllActors Call During Gameplay: World Time 2619805.3, Class DinoStorage2CCA_C
+[2020.03.09-01.33.57:824][880]AllActors Call During Gameplay: World Time 2620091.8, Class DinoStorage2CCA_C
+[2020.03.09-01.35.07:097][951]AllActors Call During Gameplay: World Time 2620161.0, Class DinoStorage2CCA_C
+[2020.03.09-01.35.11:662][ 88]AllActors Call During Gameplay: World Time 2620165.8, Class DinoStorage2CCA_C
+[2020.03.09-01.36.45:948][870]AllActors Call During Gameplay: World Time 2620259.5, Class DinoStorage2CCA_C
+[2020.03.09-01.46.33:114][416]AllActors Call During Gameplay: World Time 2620846.5, Class DinoStorage2CCA_C
+[2020.03.09-01.46.36:682][523]AllActors Call During Gameplay: World Time 2620850.3, Class DinoStorage2CCA_C
+[2020.03.09-01.46.39:748][615]AllActors Call During Gameplay: World Time 2620853.3, Class DinoStorage2CCA_C
+[2020.03.09-01.46.54:974][ 66]AllActors Call During Gameplay: World Time 2620868.5, Class DinoStorage2CCA_C
+[2020.03.09-01.46.58:242][164]AllActors Call During Gameplay: World Time 2620871.8, Class DinoStorage2CCA_C
+[2020.03.09-01.47.02:945][305]AllActors Call During Gameplay: World Time 2620876.5, Class DinoStorage2CCA_C
+[2020.03.09-01.47.05:915][394]AllActors Call During Gameplay: World Time 2620879.3, Class DinoStorage2CCA_C
+[2020.03.09-01.49.33:400][807]AllActors Call During Gameplay: World Time 2621026.8, Class DinoStorage2CCA_C
+[2020.03.09-02.02.05:367][283]AllActors Call During Gameplay: World Time 2621778.3, Class DinoStorage2CCA_C
+[2020.03.09-02.02.09:000][392]AllActors Call During Gameplay: World Time 2621781.8, Class DinoStorage2CCA_C
+[2020.03.09-02.02.20:033][723]AllActors Call During Gameplay: World Time 2621793.0, Class DinoStorage2CCA_C
+[2020.03.09-02.02.23:539][828]AllActors Call During Gameplay: World Time 2621796.5, Class DinoStorage2CCA_C
+[2020.03.09-02.02.42:952][410]AllActors Call During Gameplay: World Time 2621815.8, Class DinoStorage2CCA_C
+[2020.03.09-02.03.49:730][406]AllActors Call During Gameplay: World Time 2621882.5, Class Rings_BP_C
+[2020.03.09-02.04.28:802][577]AllActors Call During Gameplay: World Time 2621921.8, Class DinoStorage2CCA_C
+[2020.03.09-02.04.35:848][788]AllActors Call During Gameplay: World Time 2621928.8, Class DinoStorage2CCA_C
+[2020.03.09-02.08.59:118][598]AllActors Call During Gameplay: World Time 2622191.5, Class Rings_BP_C
+[2020.03.09-02.09.22:748][305]AllActors Call During Gameplay: World Time 2622215.0, Class DinoStorage2CCA_C
+[2020.03.09-02.16.13:048][572]AllActors Call During Gameplay: World Time 2622625.3, Class DinoStorage2CCA_C
+[2020.03.09-02.16.23:146][875]AllActors Call During Gameplay: World Time 2622635.5, Class DinoStorage2CCA_C
+[2020.03.09-02.19.06:288][747]AllActors Call During Gameplay: World Time 2622798.5, Class DinoStorage2CCA_C
+[2020.03.09-02.21.10:753][464]AllActors Call During Gameplay: World Time 2622923.0, Class DinoStorage2CCA_C
+[2020.03.09-02.21.15:605][569]AllActors Call During Gameplay: World Time 2622927.3, Class DinoStorage2CCA_C
+[2020.03.09-02.21.20:579][718]AllActors Call During Gameplay: World Time 2622932.3, Class DinoStorage2CCA_C
+[2020.03.09-02.21.48:014][540]AllActors Call During Gameplay: World Time 2622959.8, Class DinoStorage2CCA_C
+[2020.03.09-02.25.18:494][839]AllActors Call During Gameplay: World Time 2623170.3, Class DinoStorage2CCA_C
+[2020.03.09-02.25.21:967][943]AllActors Call During Gameplay: World Time 2623173.5, Class DinoStorage2CCA_C
+[2020.03.09-02.29.53:622][ 70]AllActors Call During Gameplay: World Time 2623445.3, Class DinoStorage2CCA_C
+[2020.03.09-02.30.54:242][881]AllActors Call During Gameplay: World Time 2623506.0, Class DinoStorage2CCA_C
+[2020.03.09-02.36.30:806][839]AllActors Call During Gameplay: World Time 2623841.8, Class DinoStorage2CCA_C
+[2020.03.09-02.36.58:152][653]AllActors Call During Gameplay: World Time 2623869.3, Class DinoStorage2CCA_C
+[2020.03.09-02.37.05:683][879]AllActors Call During Gameplay: World Time 2623876.8, Class DinoStorage2CCA_C
+[2020.03.09-02.37.10:975][ 38]AllActors Call During Gameplay: World Time 2623882.0, Class DinoStorage2CCA_C
+[2020.03.09-02.39.14:796][744]AllActors Call During Gameplay: World Time 2624005.8, Class DinoStorage2CCA_C
+[2020.03.09-02.39.18:268][848]AllActors Call During Gameplay: World Time 2624009.3, Class DinoStorage2CCA_C
+[2020.03.09-02.40.01:027][129]AllActors Call During Gameplay: World Time 2624052.0, Class DinoStorage2CCA_C
+[2020.03.09-02.55.51:655][550]AllActors Call During Gameplay: World Time 2625002.0, Class DinoStorage2CCA_C
+[2020.03.09-02.55.55:354][661]AllActors Call During Gameplay: World Time 2625005.8, Class DinoStorage2CCA_C
+[2020.03.09-02.56.01:114][834]AllActors Call During Gameplay: World Time 2625011.5, Class DinoStorage2CCA_C
+[2020.03.09-03.00.39:042][156]AllActors Call During Gameplay: World Time 2625289.5, Class StarGates_BP_C
+[2020.03.09-03.00.45:301][344]AllActors Call During Gameplay: World Time 2625295.8, Class StarGates_BP_C
+[2020.03.09-03.03.10:749][690]AllActors Call During Gameplay: World Time 2625441.3, Class DinoStorage2CCA_C
+[2020.03.09-03.11.42:652][977]AllActors Call During Gameplay: World Time 2625952.5, Class DinoS

@@ -1,0 +1,9 @@
+[/Script/ShooterGame.ShooterGameMode]
+MatingIntervalMultiplier=0.050000
+MatingSpeedMultiplier=1.000000
+EggHatchSpeedMultiplier=20.000000
+BabyMatureSpeedMultiplier=45.000000
+BabyCuddleIntervalMultiplier=0.015000
+BabyImprintingStatScaleMultiplier=5.000000
+BabyCuddleGracePeriodMultiplier=10.000000
+BabyCuddleLoseImprintQualitySpeedMultiplier=0.015000

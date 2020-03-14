@@ -1,0 +1,37 @@
+﻿[2020.03.06-21.55.49:071][  0]Log file open, 03/06/20 15:55:49
+[2020.03.06-21.55.49:071][  0]LogMemory: Platform Memory Stats for WindowsServer
+[2020.03.06-21.55.49:072][  0]LogMemory: Process Physical Memory: 59.51 MB used, 59.52 MB peak
+[2020.03.06-21.55.49:072][  0]LogMemory: Process Virtual Memory: 51.05 MB used, 51.18 MB peak
+[2020.03.06-21.55.49:072][  0]LogMemory: Physical Memory: 57640.06 MB used, 65436.48 MB total
+[2020.03.06-21.55.49:072][  0]LogMemory: Virtual Memory: 4396.87 MB used, 134217728.00 MB total
+[2020.03.06-21.55.49:464][  0]ARK Version: 306.5
+[2020.03.06-21.55.49:464][  0]PID: 28564
+[2020.03.06-21.56.40:355][  0]Primal Game Data Took 48.78 seconds
+[2020.03.06-21.57.49:403][  0]Server: "ironark" has successfully started!
+[2020.03.06-21.58.00:137][  0]Commandline: "TheIsland?RCONEnabled=True?RCONPort=27054?SessionName=ironark?MaxPlayers=30?Port=27053?QueryPort=27053?NonPermanentDiseases=true?AllowRaidDinoFeeding=true?PreventDiseases=false?AutoDestroyOldStructuresMultiplier=1?ShowFloatingDamageText=true?AllowAnyoneBabyImprintCuddle=true?OverrideStructurePlatformPrevention=true?TribeLogDestroyedEnemyStructures=true?PvEAllowStructuresAtSupplyDrops=true?OverrideOfficialDifficulty=4?PreventOfflinePvPInterval=900?ServerPassword=9967?ServerAdminPassword=ironarkAdmin0?listen -ForceAllowCaveFlyers  -NoBattlEye  -clusterid= 
+[2020.03.06-21.58.00:137][  0]Full Startup: 132.93 seconds (BP compile: 0.00 seconds)
+[2020.03.06-21.58.00:137][  0]Number of cores 6
+[2020.03.06-21.58.00:556][  3]AllActors Call During Gameplay: World Time 2438131.5, Class DinoStorage2CCA_C
+[2020.03.06-21.58.30:150][877]AllActors Call During Gameplay: World Time 2438161.3, Class CompostBin_C
+[2020.03.06-22.02.06:560][347]AllActors Call During Gameplay: World Time 2438377.8, Class Rings_BP_C
+[2020.03.06-23.38.17:738][900]AllActors Call During Gameplay: World Time 2444145.3, Class DinoStorage2CCA_C
+[2020.03.06-23.40.05:213][117]AllActors Call During Gameplay: World Time 2444252.8, Class DinoStorage2CCA_C
+[2020.03.06-23.46.34:203][730]AllActors Call During Gameplay: World Time 2444641.3, Class DinoStorage2CCA_C
+[2020.03.07-00.25.20:578][303]AllActors Call During Gameplay: World Time 2446966.3, Class DinoStorage2CCA_C
+[2020.03.07-00.25.41:489][930]AllActors Call During Gameplay: World Time 2446987.3, Class DinoStorage2CCA_C
+[2020.03.07-00.30.34:631][669]AllActors Call During Gameplay: World Time 2447279.8, Class DinoStorage2CCA_C
+[2020.03.07-00.30.42:094][893]AllActors Call During Gameplay: World Time 2447287.3, Class DinoStorage2CCA_C
+[2020.03.07-00.55.39:102][631]AllActors Call During Gameplay: World Time 2448782.8, Class DinoStorage2CCA_C
+[2020.03.07-01.29.14:596][859]AllActors Call During Gameplay: World Time 2450796.5, Class DinoStorage2CCA_C
+[2020.03.07-01.29.20:040][ 22]AllActors Call During Gameplay: World Time 2450802.0, Class DinoStorage2CCA_C
+[2020.03.07-01.35.22:953][887]AllActors Call During Gameplay: World Time 2451164.8, Class DinoStorage2CCA_C
+[2020.03.07-01.48.43:678][819]AllActors Call During Gameplay: World Time 2451965.0, Class DinoStorage2CCA_C
+[2020.03.07-01.57.54:937][288]AllActors Call During Gameplay: World Time 2452515.8, Class DinoStorage2CCA_C
+[2020.03.07-02.00.40:858][253]AllActors Call During Gameplay: World Time 2452681.8, Class DinoStorage2CCA_C
+[2020.03.07-02.05.19:237][586]AllActors Call During Gameplay: World Time 2452960.0, Class StarGates_BP_C
+[2020.03.07-02.05.23:495][713]AllActors Call During Gameplay: World Time 2452964.5, Class StarGates_BP_C
+[2020.03.07-02.05.25:805][780]AllActors Call During Gameplay: World Time 2452966.8, Class StarGates_BP_C
+[2020.03.07-02.05.33:656][ 16]AllActors Call During Gameplay: World Time 2452974.5, Class Rings_BP_C
+[2020.03.07-02.17.07:361][746]AllActors Call During Gameplay: World Time 2453667.8, Class DinoStorage2CCA_C
+[2020.03.07-02.23.02:522][380]AllActors Call During Gameplay: World Time 2454023.0, Class DinoStorage2CCA_C
+[2020.03.07-02.40.38:499][957]AllActors Call During Gameplay: World Time 2455078.3, Class DinoStorage2CCA_C
